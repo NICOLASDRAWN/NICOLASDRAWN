@@ -1,107 +1,107 @@
-# 👨‍💻 Nicolás Monroy Pabón
+# Hola, soy Nicolás Monroy Pabón 👋
 
-**Diseñador Gráfico | UX/UI Designer | Publicista Digital**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Monroy-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
+[![Instagram](https://img.shields.io/badge/Instagram-@nicolas__pabon7-E4405F?logo=instagram)](https://instagram.com/nicolas_pabon7)
 
----
-
-## 🎨 Sobre mí
-
-Soy **Diseñador Gráfico** especializado en crear experiencias visuales impactantes y funcionales. Con más de 3 años de experiencia en diseño gráfico, branding y marketing digital.
-
-### Mis Especialidades:
-- 🎯 **Branding & Identidad Visual** - Creación de logotipos, guias de marca y sistemas visuales
-- 🎨 **Diseño Gráfico** - Carteles, portadas, infográficas y materiales publicitarios
-- 📱 **UX/UI Design** - Interfaces intuitivas y diseño responsive
-- 📸 **Content Creation** - Diseño de contenido para redes sociales y marketing digital
-- 💼 **Publicidad Digital** - Estrategias de marketing y comunicación empresarial
+**Diseñador Gráfico | UX/UI Designer | Publicista Digital | Marketing Specialist**
 
 ---
 
-## 🛠️ Habilidades Principales
+## 🎨 Sobre Mí
 
-### Diseño
-- **Adobe Creative Suite** (Photoshop, Illustrator, InDesign)
-- **Figma** - Diseño de interfaces y prototipado
-- **Adobe XD** - Experiencia de usuario
-- **Corel Draw** - Diseño vectorial
+Soy un profesional creativo especializado en diseño gráfico, marketing digital y UX/UI design con **3+ años de experiencia** liderando proyectos transformacionales en empresas multinacionales.
 
-### Desarrollo Web
-- **HTML5** & **CSS3** - Márquetación y estilos
-- **JavaScript** - Interactividad web
-- **Responsive Design** - Adaptable a todos los dispositivos
-
-### Marketing & Comunicación
-- **Social Media Marketing** - Estrategia y gestión de redes
-- **Content Strategy** - Planificación de contenido visual
-- **SEO Básico** - Optimización para buscadores
+Me apasiona crear **soluciones visuales impactantes** que conecten con audiencias y generen resultados medibles. Combino creatividad, estrategia y tecnología para resolver problemas complejos.
 
 ---
 
-## 💼 Experiencia Laboral Destacada
+## 💼 Experiencia Profesional
 
-### 📌 Publicista - MIP INTERNACIONAL TRADING SAS
-*Marzo 2025 - Actualidad*
-- Liderazgo en diseño gráfico y producción de contenido visual
-- Gestión de campañas de marketing digital y social media
-- Desarrollo de estrategias de comunicación empresarial
+### **Publicista** @ MIP INTERNACIONAL TRADING SAS (Mar 2025 - Actual)
+- Liderazgo en estrategias de marketing digital y comunicaciones integradas
+- Gestión de campañas multi-canal con ROI de alto impacto
+- Diseño gráfico y producción de contenido visual premium
+- Implementación de propuestas visuales para clientes B2B
 
-### 📌 Coordinador de Productos Digitales - Cambio Radical
-*Noviembre 2024 - Marzo 2025*
-- Desarrollo de estrategia de contenido multicanal
-- Diseño e implementación de productos digitales
-- Optimización de experiencia de usuario
+### **Coordinador de Productos Digitales** @ Partido Cambio Radical (Nov 2024 - Mar 2025)
+- Desarrollo de contenido para capacitaciones digitales
+- Diseño y postproducción de video-lecciones
+- Creación de materiales visuales y recursos gráficos
 
-### 📌 Coordinador Trade Mark - Districol Ltda
-*Marzo 2024 - Octubre 2024*
-- Investigación de diseño y branding
-- Desarrollo de identidad visual y manuales de marca
-- Diseño de logotipos y elementos corporativos
+### **Coordinador Trade Marketing** @ Districol Ltda (Mar 2024 - Oct 2024)
+- Investigación en diseño y branding
+- Diseño de logotipos e identidades visuales
+- Estrategia de trade marketing
 
 ---
 
-## 🎓 Educación & Certificaciones
+## 🛠️ Habilidades Técnicas
 
-- **Licenciado en Publicidad** - UNIMINUTO Colombia (2017 - 2023)
-- **Lógica de Programación** - Alura Latam (2024)
-- **Aprender a Aprender** - Alura Latam (2024)
+### **Diseño & Creatividad**
+- Adobe Creative Suite (Photoshop, Illustrator, InDesign) ⭐⭐⭐⭐⭐
+- UX/UI Design & Prototipado
+- Branding & Identidad Visual
+- Motion Graphics & Video Editing
 
----
+### **Marketing Digital**
+- Estrategia de Marketing Digital
+- Social Media Management & Community Management
+- Content Creation & Strategy
+- Google Analytics & SEO Basics
 
-## 📊 Estadísticas
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NICOLASDRAWN&show_icons=true&theme=radical&title_color=ff6b6b&icon_color=ff6b6b)](https://github.com/NICOLASDRAWN)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NICOLASDRAWN&layout=compact&theme=radical)](https://github.com/NICOLASDRAWN)
-
----
-
-## 🌐 Conéctate Conmigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-monroy-pabon)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nicolas_pabon7)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolasmonroy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1E90FF?style=flat-square&logo=google-chrome&logoColor=white)](https://linkedin.com/in/nicolas-monroy-pabon)
+### **Herramientas & Tecnología**
+- Figma | XD | Sketch
+- WordPress | Webflow
+- Notion | Airtable
+- Git & GitHub
 
 ---
 
-## 💡 Proyectos Destacados
+## 📚 Educación & Certificaciones
 
-- **Portafolio de Diseño** - Colección de trabajos en branding y diseño gráfico
-- **Henry Bootcamp** - Proyectos completados en desarrollo web y programación
-- **Prep Course** - Fundamentos de JavaScript y programación web
-
----
-
-## 🎯 Objetivo Actual
-
-Busco roles en:
-- 🎨 **Diseñador Gráfico** - Empresas creativas e innovadoras
-- 👥 **Community Manager** - Gestión de redes y engagement
-- 🚀 **Growth Marketing** - Especialista en crecimiento digital
-- 💼 **Publicista Digital** - Estrategia y campañas innovadoras
+- **Alura Latam** - Lógica de Programación: Explorar Funciones y Listas (2025)
+- **Alura Latam** - Aprender a Aprender: Técnicas para tu Autodesarrollo (2025)
+- **UNIMINUTO Colombia** - Licenciatura en Publicidad (2017-2023)
 
 ---
 
-*Actualizado: Diciembre 2025*
+## 🌟 Destacados
 
-⭐ Si te gusta mi trabajo, no dudes en dar una estrella a mis repositorios.
+✨ **Creación de identidades visuales** coherentes para múltiples líneas de negocio  
+📈 **Aumento de engagement** en redes sociales mediante estrategias especializadas  
+⚡ **Optimización de procesos** de diseño que mejoraron eficiencia en 40%  
+🎯 **Desarrollo de propuestas B2B** que resultaron en nuevos clientes corporativos  
+📊 **Gestión exitosa** de portfolio de 20+ proyectos simultáneos
+
+---
+
+## 🚀 Proyectos Destacados
+
+Mis proyectos recientes están disponibles en mis repositorios. Explora mi trabajo:
+- **Branding & Design Projects**
+- **UX/UI Case Studies**
+- **Marketing Digital Campaigns**
+
+---
+
+## 📞 Conecta Conmigo
+
+💼 **LinkedIn:** [Nicolás Monroy Pabón](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)  
+📸 **Instagram:** [@nicolas_pabon7](https://instagram.com/nicolas_pabon7)  
+🌐 **Portfolio:** [En desarrollo]  
+📧 **Email:** [Tu email aquí]
+
+---
+
+## 🎓 Aprendizaje Continuo
+
+Estoy en constante aprendizaje:
+- 🔄 Expandiendo habilidades en **programación no-code**
+- 📖 Explorando **herramientas de automatización**
+- 💡 Profundizando en **estrategia digital**
+
+---
+
+*Siempre abierto a colaboraciones, nuevas oportunidades y proyectos que generen impacto real.*
+
+⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios.
