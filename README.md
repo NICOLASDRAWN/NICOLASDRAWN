@@ -1,107 +1,36 @@
-# Hola, soy Nicolás Monroy Pabón 👋
+# Nicolás Monroy Pabón
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Monroy-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
-[![Instagram](https://img.shields.io/badge/Instagram-@nicolas__pabon7-E4405F?logo=instagram)](https://instagram.com/nicolas_pabon7)
+### Diseño · Experiencias digitales · Desarrollo web
 
-**Diseñador Gráfico | UX/UI Designer | Publicista Digital | Marketing Specialist**
+Combino diseño gráfico, UX/UI y marketing digital con desarrollo web para crear experiencias que conecten identidad visual, interacción y tecnología.
 
----
+[Ver portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/) · [LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
 
-## 🎨 Sobre Mí
+## Proyectos seleccionados
 
-Soy un profesional creativo especializado en diseño gráfico, marketing digital y UX/UI design con **3+ años de experiencia** liderando proyectos transformacionales en empresas multinacionales.
+| Proyecto | Enfoque | Tecnologías |
+| --- | --- | --- |
+| [Portafolio profesional](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO) | Identidad personal y presentación de trabajo creativo y técnico | Next.js · React · TypeScript · Tailwind CSS |
+| [AURA](https://github.com/NICOLASDRAWN/Aura-web) | Landing page de un concepto de descubrimiento musical urbano | JavaScript · Vite · GSAP · Three.js |
+| [Conquista la Ciudad](https://github.com/NICOLASDRAWN/ConquistaLaCiudad) | Proyecto Android en desarrollo | Kotlin · Jetpack Compose · Material 3 |
 
-Me apasiona crear **soluciones visuales impactantes** que conecten con audiencias y generen resultados medibles. Combino creatividad, estrategia y tecnología para resolver problemas complejos.
+## Áreas de trabajo
 
----
+- **Diseño:** identidad visual, branding, interfaces y prototipado.
+- **Experiencias digitales:** desarrollo frontend, animación e interacción.
+- **Comunicación:** contenido visual y estrategia de marketing digital.
 
-## 💼 Experiencia Profesional
+## Herramientas
 
-### **Publicista** @ MIP INTERNACIONAL TRADING SAS (Mar 2025 - Actual)
-- Liderazgo en estrategias de marketing digital y comunicaciones integradas
-- Gestión de campañas multi-canal con ROI de alto impacto
-- Diseño gráfico y producción de contenido visual premium
-- Implementación de propuestas visuales para clientes B2B
+**Diseño:** Photoshop · Illustrator · InDesign · Figma  
+**Desarrollo:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Git
 
-### **Coordinador de Productos Digitales** @ Partido Cambio Radical (Nov 2024 - Mar 2025)
-- Desarrollo de contenido para capacitaciones digitales
-- Diseño y postproducción de video-lecciones
-- Creación de materiales visuales y recursos gráficos
+## Formación y práctica
 
-### **Coordinador Trade Marketing** @ Districol Ltda (Mar 2024 - Oct 2024)
-- Investigación en diseño y branding
-- Diseño de logotipos e identidades visuales
-- Estrategia de trade marketing
+Mi repositorio [Prep-Course](https://github.com/NICOLASDRAWN/Prep-Course) reúne material y ejercicios de formación en programación. Los proyectos seleccionados arriba muestran mi trabajo más reciente.
 
----
+## Contacto
 
-## 🛠️ Habilidades Técnicas
+Para colaboraciones en diseño, experiencias digitales y desarrollo web:
 
-### **Diseño & Creatividad**
-- Adobe Creative Suite (Photoshop, Illustrator, InDesign) ⭐⭐⭐⭐⭐
-- UX/UI Design & Prototipado
-- Branding & Identidad Visual
-- Motion Graphics & Video Editing
-
-### **Marketing Digital**
-- Estrategia de Marketing Digital
-- Social Media Management & Community Management
-- Content Creation & Strategy
-- Google Analytics & SEO Basics
-
-### **Herramientas & Tecnología**
-- Figma | XD | Sketch
-- WordPress | Webflow
-- Notion | Airtable
-- Git & GitHub
-
----
-
-## 📚 Educación & Certificaciones
-
-- **Alura Latam** - Lógica de Programación: Explorar Funciones y Listas (2025)
-- **Alura Latam** - Aprender a Aprender: Técnicas para tu Autodesarrollo (2025)
-- **UNIMINUTO Colombia** - Licenciatura en Publicidad (2017-2023)
-
----
-
-## 🌟 Destacados
-
-✨ **Creación de identidades visuales** coherentes para múltiples líneas de negocio  
-📈 **Aumento de engagement** en redes sociales mediante estrategias especializadas  
-⚡ **Optimización de procesos** de diseño que mejoraron eficiencia en 40%  
-🎯 **Desarrollo de propuestas B2B** que resultaron en nuevos clientes corporativos  
-📊 **Gestión exitosa** de portfolio de 20+ proyectos simultáneos
-
----
-
-## 🚀 Proyectos Destacados
-
-Mis proyectos recientes están disponibles en mis repositorios. Explora mi trabajo:
-- **Branding & Design Projects**
-- **UX/UI Case Studies**
-- **Marketing Digital Campaigns**
-
----
-
-## 📞 Conecta Conmigo
-
-💼 **LinkedIn:** [Nicolás Monroy Pabón](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)  
-📸 **Instagram:** [@nicolas_pabon7](https://instagram.com/nicolas_pabon7)  
-🌐 **Portfolio:** [En desarrollo]  
-📧 **Email:** [Tu email aquí]
-
----
-
-## 🎓 Aprendizaje Continuo
-
-Estoy en constante aprendizaje:
-- 🔄 Expandiendo habilidades en **programación no-code**
-- 📖 Explorando **herramientas de automatización**
-- 💡 Profundizando en **estrategia digital**
-
----
-
-*Siempre abierto a colaboraciones, nuevas oportunidades y proyectos que generen impacto real.*
-
-⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios.
+[LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/) · [Correo profesional](mailto:nicolasmonroypabon@gmail.com)
