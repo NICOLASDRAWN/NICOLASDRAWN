@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Nicolás Monroy Pabón. Diseño, código y experiencias digitales.">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#202a25" stroke-width="1"/></pattern><linearGradient id="b"><stop stop-color="#101b15"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect width="1200" height="360" rx="20" fill="url(#b)"/><rect width="1200" height="360" rx="20" fill="url(#g)"/>
+<path d="M0 0H1200" stroke="#c6ff3d" stroke-width="8"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="64" y="64" fill="#c6ff3d" font-size="14" letter-spacing="4">NICOLASDRAWN / CREATIVE TECHNOLOGY</text><text x="60" y="143" fill="#f0f6fc" font-size="58" font-weight="700">Nicolás Monroy Pabón</text><text x="64" y="194" fill="#b5bfc5" font-size="25">Diseño, código y experiencias digitales.</text><text x="64" y="276" fill="#c6ff3d" font-size="15" letter-spacing="2">DISEÑO + COMUNICACIÓN + DESARROLLO WEB</text><text x="64" y="313" fill="#8b949e" font-size="14">Ideas con identidad. Interfaces con propósito.</text></g>
+<g transform="translate(1040 252)" stroke="#c6ff3d" stroke-width="5" fill="none"><rect x="-42" y="-42" width="84" height="84"/><path d="M-23 24V-24L23 24V-24"/></g></svg>
