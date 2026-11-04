@@ -1,36 +1,65 @@
+<div align="center">
+
 # Nicolás Monroy Pabón
+### Diseño, comunicación y desarrollo de experiencias digitales
 
-### Diseño · Experiencias digitales · Desarrollo web
+Conecto identidad visual, estrategia e interfaces para convertir ideas en experiencias digitales claras y útiles.
 
-Combino diseño gráfico, UX/UI y marketing digital con desarrollo web para crear experiencias que conecten identidad visual, interacción y tecnología.
+**[Portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)** · **[LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)** · **[Contacto](mailto:nicolasmonroypabon@gmail.com)**
 
-[Ver portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/) · [LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
+</div>
 
-## Proyectos seleccionados
+---
 
-| Proyecto | Enfoque | Tecnologías |
-| --- | --- | --- |
-| [Portafolio profesional](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO) | Identidad personal y presentación de trabajo creativo y técnico | Next.js · React · TypeScript · Tailwind CSS |
-| [AURA](https://github.com/NICOLASDRAWN/Aura-web) | Landing page de un concepto de descubrimiento musical urbano | JavaScript · Vite · GSAP · Three.js |
-| [Conquista la Ciudad](https://github.com/NICOLASDRAWN/ConquistaLaCiudad) | Proyecto Android en desarrollo | Kotlin · Jetpack Compose · Material 3 |
+## Sobre mí
 
-## Áreas de trabajo
+Mi trabajo reúne diseño gráfico, UX/UI, comunicación y desarrollo web. Me interesa tanto cómo se ve un producto como la forma en que una persona lo entiende y lo utiliza.
 
-- **Diseño:** identidad visual, branding, interfaces y prototipado.
-- **Experiencias digitales:** desarrollo frontend, animación e interacción.
-- **Comunicación:** contenido visual y estrategia de marketing digital.
+En este perfil comparto proyectos de frontend, exploraciones de interacción y ejercicios de aprendizaje. Mi portafolio reúne una presentación más amplia de mi trabajo creativo y técnico.
 
-## Herramientas
+## Trabajo seleccionado
 
-**Diseño:** Photoshop · Illustrator · InDesign · Figma  
-**Desarrollo:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Git
+### [Portafolio profesional — Brand OS](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO)
+Mi espacio de presentación profesional: identidad visual, trayectoria y proyectos en una experiencia web con animación e interacción.
 
-## Formación y práctica
+**Tecnologías:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Framer Motion  
+[Explorar portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/) · [Ver código](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO)
 
-Mi repositorio [Prep-Course](https://github.com/NICOLASDRAWN/Prep-Course) reúne material y ejercicios de formación en programación. Los proyectos seleccionados arriba muestran mi trabajo más reciente.
+### [AURA — The City's Soundtrack](https://github.com/NICOLASDRAWN/Aura-web)
+Landing page para un concepto de descubrimiento musical urbano. Explora narrativa de producto, identidad visual, movimiento y presentación de una experiencia digital.
 
-## Contacto
+**Tecnologías:** HTML · CSS · JavaScript · Vite · GSAP · Three.js  
+**Alcance:** frontend de presentación del concepto.  
+[Ver proyecto y ejecución local](https://github.com/NICOLASDRAWN/Aura-web#readme)
 
-Para colaboraciones en diseño, experiencias digitales y desarrollo web:
+## Cómo puedo aportar
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/) · [Correo profesional](mailto:nicolasmonroypabon@gmail.com)
+| Área | Enfoque |
+| --- | --- |
+| Diseño e identidad | Branding, sistemas visuales y piezas de comunicación |
+| Interfaces y experiencia | Diseño de interfaces, prototipado y claridad de uso |
+| Desarrollo frontend | Implementación web, animación y experiencias interactivas |
+| Comunicación digital | Narrativa de producto, contenido visual y marketing digital |
+
+## Herramientas y tecnologías
+
+**Diseño y prototipado**  
+Photoshop · Illustrator · InDesign · Figma
+
+**Desarrollo web**  
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+
+**Interacción y trabajo con código**  
+GSAP · Framer Motion · Vite · Git · GitHub
+
+## Laboratorio y aprendizaje
+
+- [ConquistaLaCiudad](https://github.com/NICOLASDRAWN/ConquistaLaCiudad): base de práctica Android con Kotlin, Jetpack Compose y Material 3. Actualmente contiene la pantalla inicial del proyecto.
+- [Prep-Course](https://github.com/NICOLASDRAWN/Prep-Course): material y ejercicios de formación en programación.
+
+## Hablemos de tu proyecto
+
+Para propuestas de diseño, interfaces, comunicación digital o desarrollo web, escríbeme con una breve descripción de lo que necesitas.
+
+**[nicolasmonroypabon@gmail.com](mailto:nicolasmonroypabon@gmail.com)**  
+[LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/) · [Portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)
