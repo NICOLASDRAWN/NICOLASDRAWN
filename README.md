@@ -1,65 +1,94 @@
 <div align="center">
 
-# Nicolás Monroy Pabón
-### Diseño, comunicación y desarrollo de experiencias digitales
+<img src="./assets/profile-header.svg" width="100%" alt="Nicolás Monroy Pabón — Diseño, código y experiencias digitales" />
 
-Conecto identidad visual, estrategia e interfaces para convertir ideas en experiencias digitales claras y útiles.
+<br />
 
-**[Portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)** · **[LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)** · **[Contacto](mailto:nicolasmonroypabon@gmail.com)**
+[![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-C6FF3D?style=for-the-badge&logo=googlechrome&logoColor=101510)](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-18221C?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
+[![Contacto](https://img.shields.io/badge/HABLEMOS-18221C?style=for-the-badge&logo=gmail&logoColor=C6FF3D)](mailto:nicolasmonroypabon@gmail.com)
+
+**Conecto identidad visual, estrategia e interfaces para crear experiencias digitales claras y útiles.**
 
 </div>
 
+## ◈ Sobre mí
+
+Soy **Nicolás Monroy Pabón**. Mi trabajo combina diseño gráfico, UX/UI, comunicación y desarrollo web. Me interesa cómo se ve un producto, cómo se entiende y cómo se utiliza.
+
+- **Diseño:** identidad visual, branding, interfaces y prototipado.
+- **Desarrollo:** frontend, movimiento y experiencias interactivas.
+- **Comunicación:** narrativa de producto, contenido visual y marketing digital.
+- **Exploración:** desarrollo Android con Kotlin y Jetpack Compose.
+
+## ⌘ Tecnologías y herramientas
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS y Vite" />
+
+**Diseño e interacción**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,threejs&theme=dark" alt="Figma, Photoshop, Illustrator y Three.js" />
+
+InDesign · GSAP · Framer Motion
+
+**Entorno y aprendizaje**
+
+<img src="https://skillicons.dev/icons?i=git,github,kotlin,androidstudio&theme=dark" alt="Git, GitHub, Kotlin y Android Studio" />
+
+## ↗ Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Brand OS
+**Portafolio profesional**
+
+Identidad personal, trayectoria y proyectos en una experiencia web que conecta trabajo creativo y técnico.
+
+`Next.js 16` `React 19` `TypeScript`  
+`Tailwind CSS` `Framer Motion`
+
+[**Explorar portafolio ↗**](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)  
+[Ver código](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO)
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ AURA
+**The City's Soundtrack**
+
+Landing page para un concepto de descubrimiento musical urbano. Narrativa de producto, identidad visual e interacción.
+
+`JavaScript` `Vite` `GSAP`  
+`Three.js` `HTML + CSS`
+
+[**Explorar repositorio ↗**](https://github.com/NICOLASDRAWN/Aura-web)  
+[Documentación y ejecución](https://github.com/NICOLASDRAWN/Aura-web#readme)
+
+</td>
+</tr>
+</table>
+
+## ⌁ Laboratorio
+
+| Proyecto | Qué encontrarás | Estado |
+| :--- | :--- | :--- |
+| [ConquistaLaCiudad](https://github.com/NICOLASDRAWN/ConquistaLaCiudad) | Base Android con Kotlin, Compose y Material 3 | Práctica inicial |
+| [Prep-Course](https://github.com/NICOLASDRAWN/Prep-Course) | Material y ejercicios de programación | Formación |
+
+## + Construyamos algo
+
+¿Tienes una idea de marca, interfaz o producto digital? Escríbeme con una breve descripción del proyecto.
+
+**[nicolasmonroypabon@gmail.com](mailto:nicolasmonroypabon@gmail.com)**
+
+[Portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/) · [LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
+
 ---
 
-## Sobre mí
-
-Mi trabajo reúne diseño gráfico, UX/UI, comunicación y desarrollo web. Me interesa tanto cómo se ve un producto como la forma en que una persona lo entiende y lo utiliza.
-
-En este perfil comparto proyectos de frontend, exploraciones de interacción y ejercicios de aprendizaje. Mi portafolio reúne una presentación más amplia de mi trabajo creativo y técnico.
-
-## Trabajo seleccionado
-
-### [Portafolio profesional — Brand OS](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO)
-Mi espacio de presentación profesional: identidad visual, trayectoria y proyectos en una experiencia web con animación e interacción.
-
-**Tecnologías:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Framer Motion  
-[Explorar portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/) · [Ver código](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO)
-
-### [AURA — The City's Soundtrack](https://github.com/NICOLASDRAWN/Aura-web)
-Landing page para un concepto de descubrimiento musical urbano. Explora narrativa de producto, identidad visual, movimiento y presentación de una experiencia digital.
-
-**Tecnologías:** HTML · CSS · JavaScript · Vite · GSAP · Three.js  
-**Alcance:** frontend de presentación del concepto.  
-[Ver proyecto y ejecución local](https://github.com/NICOLASDRAWN/Aura-web#readme)
-
-## Cómo puedo aportar
-
-| Área | Enfoque |
-| --- | --- |
-| Diseño e identidad | Branding, sistemas visuales y piezas de comunicación |
-| Interfaces y experiencia | Diseño de interfaces, prototipado y claridad de uso |
-| Desarrollo frontend | Implementación web, animación y experiencias interactivas |
-| Comunicación digital | Narrativa de producto, contenido visual y marketing digital |
-
-## Herramientas y tecnologías
-
-**Diseño y prototipado**  
-Photoshop · Illustrator · InDesign · Figma
-
-**Desarrollo web**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
-
-**Interacción y trabajo con código**  
-GSAP · Framer Motion · Vite · Git · GitHub
-
-## Laboratorio y aprendizaje
-
-- [ConquistaLaCiudad](https://github.com/NICOLASDRAWN/ConquistaLaCiudad): base de práctica Android con Kotlin, Jetpack Compose y Material 3. Actualmente contiene la pantalla inicial del proyecto.
-- [Prep-Course](https://github.com/NICOLASDRAWN/Prep-Course): material y ejercicios de formación en programación.
-
-## Hablemos de tu proyecto
-
-Para propuestas de diseño, interfaces, comunicación digital o desarrollo web, escríbeme con una breve descripción de lo que necesitas.
-
-**[nicolasmonroypabon@gmail.com](mailto:nicolasmonroypabon@gmail.com)**  
-[LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/) · [Portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)
+<div align="center">
+<sub>Nicolás Monroy Pabón · Diseño + Comunicación + Tecnología</sub>
+</div>
