@@ -4,7 +4,7 @@
 
 <br />
 
-[![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-C6FF3D?style=for-the-badge&logo=googlechrome&logoColor=101510)](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)
+[![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-C6FF3D?style=for-the-badge&logo=googlechrome&logoColor=101510)](https://ncls.lat/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-18221C?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
 [![Contacto](https://img.shields.io/badge/HABLEMOS-18221C?style=for-the-badge&logo=gmail&logoColor=C6FF3D)](mailto:nicolasmonroypabon@gmail.com)
 
@@ -34,6 +34,10 @@ Soy **Nicolás Monroy Pabón**. Mi trabajo combina diseño gráfico, UX/UI, comu
 
 InDesign · GSAP · Framer Motion
 
+**Backend y automatización**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,electron,sqlite&theme=dark" alt="Node.js, Express, Python, Electron y SQLite" />
+
 **Entorno y aprendizaje**
 
 <img src="https://skillicons.dev/icons?i=git,github,kotlin,androidstudio&theme=dark" alt="Git, GitHub, Kotlin y Android Studio" />
@@ -52,7 +56,7 @@ Identidad personal, trayectoria y proyectos en una experiencia web que conecta t
 `Next.js 16` `React 19` `TypeScript`  
 `Tailwind CSS` `Framer Motion`
 
-[**Explorar portafolio ↗**](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/)  
+[**Explorar portafolio ↗**](https://ncls.lat/)  
 [Ver código](https://github.com/NICOLASDRAWN/NICOLAS-HYBRID-PORTFOLIO)
 
 </td>
@@ -89,7 +93,7 @@ Además de mis proyectos públicos, desarrollo herramientas internas que conecta
 
 [**Leer los casos de estudio ↗**](./docs/case-studies/automatizacion-empresarial.md)
 
-<sub>Presentación anonimizada de experiencia profesional. El código, los datos y las configuraciones empresariales permanecen privados.</sub>
+<sub>Casos redactados para presentación pública, con descripciones generales del trabajo y sin adjuntar código, registros ni configuraciones internas.</sub>
 
 ## ⌁ Laboratorio
 
@@ -104,7 +108,7 @@ Además de mis proyectos públicos, desarrollo herramientas internas que conecta
 
 **[nicolasmonroypabon@gmail.com](mailto:nicolasmonroypabon@gmail.com)**
 
-[Portafolio](https://nicolasdrawn.github.io/NICOLAS-HYBRID-PORTFOLIO/) · [LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
+[Portafolio](https://ncls.lat/) · [LinkedIn](https://www.linkedin.com/in/nicolas-monroy-pabon-a8a838176/)
 
 ---
 
