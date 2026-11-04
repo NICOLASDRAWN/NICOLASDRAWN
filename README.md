@@ -17,7 +17,8 @@
 Soy **Nicolás Monroy Pabón**. Mi trabajo combina diseño gráfico, UX/UI, comunicación y desarrollo web. Me interesa cómo se ve un producto, cómo se entiende y cómo se utiliza.
 
 - **Diseño:** identidad visual, branding, interfaces y prototipado.
-- **Desarrollo:** frontend, movimiento y experiencias interactivas.
+- **Desarrollo:** aplicaciones web y de escritorio, movimiento y experiencias interactivas.
+- **Automatización:** herramientas internas, gestión documental e integración de procesos.
 - **Comunicación:** narrativa de producto, contenido visual y marketing digital.
 - **Exploración:** desarrollo Android con Kotlin y Jetpack Compose.
 
@@ -71,6 +72,24 @@ Landing page para un concepto de descubrimiento musical urbano. Narrativa de pro
 </td>
 </tr>
 </table>
+
+## ◇ Software empresarial y automatización
+
+Además de mis proyectos públicos, desarrollo herramientas internas que conectan procesos, interfaces y automatización.
+
+| Área de trabajo | Contribución |
+| :--- | :--- |
+| Gestión de proveedores | Directorios, documentación e integraciones de análisis asistido por IA |
+| Compras y suministros | Organización de registros y consulta de información operativa |
+| Evaluaciones | Modelado de procesos, consolidación y revisión de resultados |
+| Comunicación corporativa | Plantillas de correo y generación automatizada de PDF |
+| Sincronización | Utilidades de escritorio e historial de respaldo de archivos |
+
+**React · Express · Electron · Python · SQLite · Excel · APIs**
+
+[**Leer los casos de estudio ↗**](./docs/case-studies/automatizacion-empresarial.md)
+
+<sub>Presentación anonimizada de experiencia profesional. El código, los datos y las configuraciones empresariales permanecen privados.</sub>
 
 ## ⌁ Laboratorio
 
